@@ -50,3 +50,6 @@ The five customer type classes (BusinessCustomer, ReturningCustomer, etc.) are s
 CustomerFactory is shown separately, with an association to CustomerType and a dependency to the Customer interface.
 EmailGenerator depends on CustomerFactory.
 Main interacts with EmailGenerator and CustomerType.
+
+# Github Link
+https://github.com/MabelessMa/BUMETCS665Assignment3
